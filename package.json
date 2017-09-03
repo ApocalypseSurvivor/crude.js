@@ -1,0 +1,11 @@
+{
+  "name": "crude.js",
+  "version": "0.3.1",
+  "description": "An Entity System Framework",
+  "main": "crude.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Apocalypse.IO",
+  "license": "MIT"
+}
