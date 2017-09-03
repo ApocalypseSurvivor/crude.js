@@ -1,11 +1,15 @@
 {
   "name": "crude.js",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "An Entity System Framework",
   "main": "crude.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Apocalypse.IO",
-  "license": "MIT"
+  "author": "ApocalypseSurvivor",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ApocalypseSurvivor/crude.js.git"
+  },
 }
